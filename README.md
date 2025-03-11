@@ -1,2 +1,2 @@
-# Game-hanh-dong-2D
+# Hunter-of-the-Abyss
 Đồ án môn học
