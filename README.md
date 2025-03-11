@@ -1,2 +1,2 @@
-# Game-h-nh-ng-2D
+# Game-hanh-dong-2D
 Đồ án môn học
