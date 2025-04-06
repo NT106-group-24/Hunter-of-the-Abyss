@@ -1,0 +1,7 @@
+Library/
+Artifacts/
+Packages/
+Temp/
+*.dll
+*.so
+*.dylib
